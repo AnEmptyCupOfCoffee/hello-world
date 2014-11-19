@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-Hello World!
+I choose to remove som text.
